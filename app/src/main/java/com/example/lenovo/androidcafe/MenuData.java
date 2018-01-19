@@ -2,6 +2,8 @@ package com.example.lenovo.androidcafe;
 
 import android.util.Log;
 
+import com.google.gson.Gson;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 
