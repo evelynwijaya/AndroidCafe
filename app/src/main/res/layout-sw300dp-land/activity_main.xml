@@ -2,8 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="horizontal">
+    xmlns:tools="http://schemas.android.com/tools">
+
 
     <fragment
         android:id="@+id/fragmentL"
@@ -22,6 +22,4 @@
         android:name="com.example.lenovo.androidcafe.FragmentDetail"
         tools:layout="@layout/fragment_detail"
         />
-
-
 </LinearLayout>

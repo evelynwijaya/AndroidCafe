@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+
     <ImageView
         android:id="@+id/img_item"
         android:layout_width="match_parent"
@@ -26,6 +27,7 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
 
         <TextView
             android:id="@+id/tv_Description"
